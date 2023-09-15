@@ -1,0 +1,24 @@
+.headerItem{
+    outline: solid blue 1px;
+    width: fit-content;
+    padding: 5px;
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+.ulTextHeader li {
+    display: inline-block;
+    width: fit-content;
+}
+
+#mainSection{
+    width:50%;
+    min-height: 100px;
+    outline: solid rebeccapurple 1px;
+}
